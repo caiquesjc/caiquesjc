@@ -1,7 +1,7 @@
 ## Olá, sou o Caique!
 <br/>
 
-Atualmente sou estudande de Análise e Desenvolvimento de Sistemas na [FATEC São José dos Campos - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
+### Atualmente sou estudande de Análise e Desenvolvimento de Sistemas na [FATEC São José dos Campos - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
 <br/>
 ### Essas são minhas redes sociais
 [![email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquesjc/)
