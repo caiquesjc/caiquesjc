@@ -1,5 +1,6 @@
 ### Legal ver você por aqui 👋
 
+![Oi, meu chapa!](https://pm1.narvii.com/6812/03b5ebec37c170c7b2be066b9c4ca6b9fa2056f1v2_hq.jpg)
 <!--
 **caiquesjc/caiquesjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
