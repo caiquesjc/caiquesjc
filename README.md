@@ -1,6 +1,4 @@
 ### Legal ver você por aqui 👋
-
-<img src="https://pm1.narvii.com/6812/03b5ebec37c170c7b2be066b9c4ca6b9fa2056f1v2_hq.jpg" width="50%"/>
 <!--
 **caiquesjc/caiquesjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
