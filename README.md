@@ -1,4 +1,4 @@
-## Fala aí, meu consagrado!
+## Fala aí!
 
 ### Meu nome é Caique. Atualmente sou estudande de Análise e Desenvolvimento de Sistemas na [FATEC São José dos Campos - Prof. Jessen Vidal](http://fatecsjc-prd.azurewebsites.net)
 <br/>
